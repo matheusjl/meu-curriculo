@@ -24,7 +24,6 @@
 }
 
 .lista {
-    text-align: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -38,8 +37,14 @@
 
 #context {
     grid-area: context;
-    height: 50vh;
+    height: 145vh;
     color: black;
+}
+img {
+    max-width: 500px;
+    float: right;
+    max-height: 500px;
+    margin-right:50px;
 }
 
 #footer {

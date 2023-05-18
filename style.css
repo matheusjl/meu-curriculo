@@ -36,16 +36,12 @@
   }
 
 #context {
+
     grid-area: context;
-    height: 70vh;
+    max-height: 70vh;
     color: black;
 }
-img {
-    max-width: 450px;
-    float: right;
-    max-height: 500px;
-    margin-right:50px;
-}
+
 
 #footer {
     grid-area: footer;

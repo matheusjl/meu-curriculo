@@ -36,9 +36,8 @@
   }
 
 #context {
-
+    max-height: auto;
     grid-area: context;
-    max-height: 90vh;
     color: black;
 }
 
